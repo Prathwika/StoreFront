@@ -1,0 +1,16 @@
+{
+    "1": {
+        "title": "Running Shoes",
+        "price": 4999,
+        "sale_price": 3999,
+        "images": ["images/product1.jpg"],
+        "description": "High-quality running shoes for every occasion."
+    },
+    "2": {
+        "title": "Workout Leggings",
+        "price": 1999,
+        "sale_price": 1499,
+        "images": ["images/product2.jpg"],
+        "description": "Comfortable and stretchable leggings."
+    }
+}
